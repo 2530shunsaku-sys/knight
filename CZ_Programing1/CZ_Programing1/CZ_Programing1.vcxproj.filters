@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="cz_env.cpp">
+      <Filter>cz_env</Filter>
+    </ClCompile>
+    <ClCompile Include="knight.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="cz_env">
+      <UniqueIdentifier>{7ce649a7-0759-4bf7-993c-f01861532d91}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig">
+      <Filter>cz_env</Filter>
+    </None>
+  </ItemGroup>
+</Project>
